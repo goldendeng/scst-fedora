@@ -1,1 +1,0 @@
-yum install perl-ExtUtils-MakeMaker.noarch dlm.x86_64 kernel-devel.x86_64 python-paramiko.noarch python-psutil.x86_64 

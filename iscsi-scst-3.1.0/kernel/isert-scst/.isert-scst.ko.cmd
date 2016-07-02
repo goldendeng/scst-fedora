@@ -1,1 +1,0 @@
-cmd_/root/iscsi-scst-3.1.0/kernel/isert-scst/isert-scst.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/iscsi-scst-3.1.0/kernel/isert-scst/isert-scst.ko /root/iscsi-scst-3.1.0/kernel/isert-scst/isert-scst.o /root/iscsi-scst-3.1.0/kernel/isert-scst/isert-scst.mod.o

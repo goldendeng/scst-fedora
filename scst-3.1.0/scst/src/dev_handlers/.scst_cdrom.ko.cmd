@@ -1,1 +1,0 @@
-cmd_/root/scst-3.1.0/scst/src/dev_handlers/scst_cdrom.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/scst-3.1.0/scst/src/dev_handlers/scst_cdrom.ko /root/scst-3.1.0/scst/src/dev_handlers/scst_cdrom.o /root/scst-3.1.0/scst/src/dev_handlers/scst_cdrom.mod.o
