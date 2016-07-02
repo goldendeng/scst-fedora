@@ -1,0 +1,1 @@
+cmd_/root/scst-3.1.0/scst/src/dev_handlers/scst_raid.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/scst-3.1.0/scst/src/dev_handlers/scst_raid.ko /root/scst-3.1.0/scst/src/dev_handlers/scst_raid.o /root/scst-3.1.0/scst/src/dev_handlers/scst_raid.mod.o

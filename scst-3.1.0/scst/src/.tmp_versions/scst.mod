@@ -1,0 +1,2 @@
+/root/scst-3.1.0/scst/src/scst.ko
+/root/scst-3.1.0/scst/src/scst_main.o /root/scst-3.1.0/scst/src/scst_targ.o /root/scst-3.1.0/scst/src/scst_lib.o /root/scst-3.1.0/scst/src/scst_sysfs.o /root/scst-3.1.0/scst/src/scst_mem.o /root/scst-3.1.0/scst/src/scst_debug.o /root/scst-3.1.0/scst/src/scst_pres.o /root/scst-3.1.0/scst/src/scst_no_dlm.o /root/scst-3.1.0/scst/src/scst_dlm.o /root/scst-3.1.0/scst/src/scst_tg.o /root/scst-3.1.0/scst/src/scst_event.o /root/scst-3.1.0/scst/src/scst_copy_mgr.o

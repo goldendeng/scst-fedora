@@ -1,0 +1,2 @@
+/root/iscsi-scst-3.1.0/kernel/isert-scst/isert-scst.ko
+/root/iscsi-scst-3.1.0/kernel/isert-scst/isert.o /root/iscsi-scst-3.1.0/kernel/isert-scst/isert_login.o /root/iscsi-scst-3.1.0/kernel/isert-scst/iser_datamover.o /root/iscsi-scst-3.1.0/kernel/isert-scst/iser_rdma.o /root/iscsi-scst-3.1.0/kernel/isert-scst/iser_buf.o /root/iscsi-scst-3.1.0/kernel/isert-scst/iser_pdu.o /root/iscsi-scst-3.1.0/kernel/isert-scst/iser_global.o
